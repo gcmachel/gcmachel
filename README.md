@@ -2,7 +2,7 @@
 - 👀 I’m interested in SharePoint and SPFx
 - 🌱 I’m currently learning SPFx
 - 💞️ I’m looking to collaborate on SharePoint
-- 📫 How to reach me ...
+- 📫 You can reach me here.
 
 <!---
 gcmachel/gcmachel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
